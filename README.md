@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como Back-End
 - 🌱 Meu foco de estudo é Python
-- 💬 Sou um dedicado em todos os projetos que entro, sempre entregando o melhor de mim.
+- 💬 Sou sempre dedicado em todos os projetos que entro, sempre entregando o melhor de mim.
 - 📫 Contato email: leonardo.tadanory@gmail.com
 - 😄 Pronouns: ele/dele
 
