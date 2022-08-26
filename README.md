@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Back-End
-- 🌱 Meu foco de estudo é Python
+- 🌱 Meu foco de estudo e obter mais conhecimento nas áreas de dev, para um dia conseguir chegar a full stack
 - 💬 Sou sempre dedicado em todos os projetos que entro, sempre entregando o melhor de mim.
 - 📫 Contato email: leonardo.tadanory@gmail.com
 - 😄 Pronouns: ele/dele
